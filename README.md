@@ -1,4 +1,4 @@
-##About Me:
+## About Me:
 Hi, I'm doing self studying front end, currently focused on learning React and TypeScript. Interested in web development, UI/UX design, and building nice projects. Feel free to contact me anytime.
 
 ## Tech Stack

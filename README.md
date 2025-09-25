@@ -8,3 +8,6 @@ Hi, I'm doing self studying front end, currently focused on learning React and T
 
 ## What I learned through this project-
 - js can't reconige string or number so typescript can avoid that kind of bug.
+
+- ## Reference
+udemy.com/course/react_stepup/
